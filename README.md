@@ -1,5 +1,5 @@
 # Kuje Community Football
-A live football score website for the kuje community.
+A live football score platform and website for the kuje community.
 ## Features
 - Live football scores
 - Match fixtures
