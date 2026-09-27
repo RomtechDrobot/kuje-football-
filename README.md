@@ -6,5 +6,5 @@ A live football score platform and website for the kuje community.
 - Team information
 ### Match Fixtures
 - Kuje united vs Abuja City - Saturday
-- Kuje stars vs Gwagwalad FC - Sunday
+- Kuje stars vs Gwagwalad FC - Thursday
 - Lugbe FC vs Utako FC - Wednesday
