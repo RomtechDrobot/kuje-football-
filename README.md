@@ -9,3 +9,4 @@ A live football score platform and website for the kuje community.
 - Kuje stars vs Gwagwalad FC - Thursday
 - Lugbe FC vs Utako FC - Wednesday
 Live score tracking feature added.
+Main branch update
